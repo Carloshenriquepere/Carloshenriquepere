@@ -44,4 +44,8 @@ Tenho conhecimento em algumas linguagem de programação como [Java](https://git
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquepere&layout=compact&langs_count=16&theme=ambient_gradient"/>
 </div>
 
-![snake gif](https://github.com/carloshenriquepere/carloshenriquepere/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloshenriquepere/carloshenriquepere/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloshenriquepere/carloshenriquepere/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carloshenriquepere/carloshenriquepere/output/github-contribution-grid-snake.svg">
+</picture>
