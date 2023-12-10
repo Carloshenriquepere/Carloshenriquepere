@@ -1,12 +1,11 @@
 <img src = "giphy.gif" width = "350px" align = "right">
 
 # ♨ Seja bem vindo(a) ao meu GitHub! 
-# É bom ter você por aqui.
-Desde que me interessei na área de programação, estudo diariamente para conseguir a
-minha primeira oportunidade. Há um ano venho desenvolvendo diversos projetos
-para colocar em pratica meu conhecimento e tenho a certeza que estou apto para
-somar na sua equipe de programadores. Tenho facilidade de aprendizado, boa
-comunicação e a todo momento busco me aprimorar cada vez mais.
+<h2> É bom ter você por aqui.</h2>
+Tenho experiência com a linguagem Java usando framework Spring com banco de H2 Database e MySQL, também usando as ferramentas de compilação Maven e Gradle e Postman para manipulação.
+Já atuei com outras linguagens de programação como PHP e JS. 
+O framework usado com JS foi React, usando Routes, JQuery e APIs JSON.
+Tenho conhecimento com HTML5, CSS3, SASS.
 
 - ♠ Cursando ADS na Estácio
 - ♥ Aprendendo a programar em Back-End
