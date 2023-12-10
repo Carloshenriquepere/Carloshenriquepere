@@ -1,6 +1,6 @@
 <img src = "giphy.gif" width = "350px" align = "right">
 
-# ♨ Seja bem vindo(a) ao meu GitHub! 
+# 🙋 Seja bem vindo(a) ao meu GitHub! 
 <h2> É bom ter você por aqui.😁</h2>
 Tenho experiência com a linguagem Java usando framework Spring com banco de H2 Database e MySQL, também usando as ferramentas de compilação Maven e Gradle e Postman para manipulação.
 Já atuei com outras linguagens de programação como PHP e JS. 
