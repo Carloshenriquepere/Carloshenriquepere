@@ -2,10 +2,7 @@
 
 # 🙋 Seja bem vindo(a) ao meu GitHub! 
 <h2> É bom ter você por aqui.😁</h2>
-Tenho experiência com a linguagem Java usando framework Spring com banco de H2 Database e MySQL, também usando as ferramentas de compilação Maven e Gradle e Postman para manipulação.
-Já atuei com outras linguagens de programação como PHP e JS. 
-O framework usado com JS foi React, usando Routes, JQuery e APIs JSON.
-Tenho conhecimento com HTML5, CSS3, SASS.
+
 
 - ♠ Cursando ADS na Estácio
 - ♥ Aprendendo a programar em Back-End
@@ -21,10 +18,11 @@ Tenho conhecimento com HTML5, CSS3, SASS.
 
 ---
 
-Tenho conhecimento em algumas linguagem de programação como [Java](https://github.com/Carloshenriquepere/Projeto-lista-de-alunos-MaisPraTi),
-[JavaScript](https://github.com/Carloshenriquepere/react_brivia/tree/main) e [PHP](https://github.com/Carloshenriquepere/projeto_login), e também estou familiarizado com alguns frameworks como
-[Spring Boot](https://github.com/Carloshenriquepere/Transacao_simplificada/tree/master), [React](https://github.com/Carloshenriquepere/react_brivia/tree/main) e outros como [MySQL](https://github.com/Carloshenriquepere/projeto-spring), [HTML5](https://github.com/Carloshenriquepere/tela_reponsiva), [CSS3](https://github.com/Carloshenriquepere/tela_reponsiva), [JSON](https://github.com/Carloshenriquepere/react_brivia/tree/main), [Jquery](https://github.com/Carloshenriquepere/react_brivia/tree/main),
-[RESTFull](https://github.com/Carloshenriquepere/projeto-spring), [APIs](https://github.com/Carloshenriquepere/projeto-spring).
+<h3>Tenho experiência com a linguagem Java usando framework Spring com banco de H2 Database e MySQL, também usando as ferramentas de compilação Maven e Gradle e Postman para manipulação.
+Já atuei com outras linguagens de programação como PHP e JS. 
+O framework usado com JS foi React, usando Routes, JQuery e APIs JSON.
+Tenho conhecimento com HTML5, CSS3, SASS.</h3>
+
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
