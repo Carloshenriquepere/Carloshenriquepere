@@ -24,7 +24,9 @@ Já atuei com outras linguagens de programação como PHP e JS.
 
 O framework usado com JS foi React, usando Routes, JQuery e APIs JSON.
 
-Tenho conhecimento com HTML5, CSS3, SASS.</h3>
+Tenho conhecimento com HTML5, CSS3, SASS.
+
+Tenho experiência com Docker.</h3>
 
 
 <div>
