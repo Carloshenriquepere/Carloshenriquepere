@@ -19,8 +19,11 @@
 ---
 
 <h3>Tenho experiência com a linguagem Java usando framework Spring com banco de H2 Database e MySQL, também usando as ferramentas de compilação Maven e Gradle e Postman para manipulação.
+
 Já atuei com outras linguagens de programação como PHP e JS. 
+
 O framework usado com JS foi React, usando Routes, JQuery e APIs JSON.
+
 Tenho conhecimento com HTML5, CSS3, SASS.</h3>
 
 
