@@ -46,8 +46,7 @@ Tenho experiência com Docker.</h3>
 <div>
   <a href="https://github.com/Carloshenriquepere">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloshenriquepere&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquepere&layout=compact&langs_count=16&theme=ambient_gradient"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquepere&layout=compact&langs_count=16&theme=ambient_gradient"/></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloshenriquepere/carloshenriquepere/output/github-contribution-grid-snake-dark.svg">
