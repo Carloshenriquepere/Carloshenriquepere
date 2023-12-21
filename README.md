@@ -6,10 +6,8 @@
 
 - ♠ Cursando ADS na Estácio
 - ♥ Aprendendo a programar em Back-End
-- ♣ Apaixonado por:
-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-</div>
+- ♣ Apaixonado por:<div><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></div>
+
 
 <div>
    <a href="https://www.instagram.com/carlos_henrique_perei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
