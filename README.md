@@ -8,8 +8,7 @@
 - ♥ Aprendendo a programar em Back-End
 - ♣ Apaixonado por:
 - <div>
-   <img src="https://www.flaticon.com/br/icone-gratis/java_919854"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 <div>
