@@ -6,7 +6,11 @@
 
 - ♠ Cursando ADS na Estácio
 - ♥ Aprendendo a programar em Back-End
-- ♣ Apaixonado por:<div><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</div>
+- ♣ Apaixonado por:
+- <div>
+   <img src="https://www.flaticon.com/br/icone-gratis/java_919854"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 <div>
    <a href="https://www.instagram.com/carlos_henrique_perei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,7 +34,6 @@ Tenho experiência com Docker.</h3>
 
 
 <div>
-   <img src="https://img.shields.io/badge/React-wordmark.svg"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
