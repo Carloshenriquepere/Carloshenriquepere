@@ -19,15 +19,23 @@
 
 ---
 
-<h3>Tenho experiência com a linguagem Java usando framework Spring com banco de H2 Database e MySQL, também usando as ferramentas de compilação Maven e Gradle e Postman para manipulação.
+<h3>Como desenvolvedor de software apaixonado pela tecnologia e inovação, trago uma rica experiência prática em programação Java, especializando-me na criação de APIs RESTful robustas com o framework Spring. Meu domínio técnico se estende a bancos de dados como MySQL, PostgreSQL e H2, onde aplico as melhores práticas de desenvolvimento e manutenção de sistemas de banco de dados.
 
-Já atuei com outras linguagens de programação como PHP e JS. 
+Minha expertise não se limita ao backend. No front-end, tenho habilidade com TypeScript, criando interfaces de usuário interativas com React.js e estilizando-as com Tailwind e Bootstrap para uma experiência de usuário impecável.
 
-O framework usado com JS foi React, usando Routes, JQuery e para consumo de APIs uso axios.
+A qualidade do código é uma prioridade para mim, e por isso, estou sempre aprimorando minhas habilidades de teste com ferramentas como JUnit, Mockito e Postman, garantindo que cada linha de código seja confiável e eficiente.
 
-Tenho conhecimento com HTML5, CSS3, SASS e a biblioteca Boodstrap.
+Além disso, tenho experiência com PHP e JavaScript, o que me permite ter uma visão ampla sobre diferentes tecnologias e abordagens de programação.
 
-Tenho experiência com Docker.</h3>
+No que diz respeito à infraestrutura e operações, sou versado em Docker, criando e gerenciando containers para garantir a entrega contínua e a integração de sistemas de forma eficaz.
+
+A gestão de versões é um aspecto crucial no desenvolvimento colaborativo, e eu utilizo Git, GitHub e GitLab para manter um fluxo de trabalho organizado e transparente.
+
+Expêriencia com menssageria usando Apache Kafka.
+
+Além disso, utilizo o Google Cloud para hospedar minhas aplicações na nuvem, garantindo escalabilidade e disponibilidade.
+
+Você pode encontrar a documentação detalhada de todos os meus projetos e contribuições no meu GitHub, que serve como testemunho do meu compromisso com a excelência em software.</h3>
 
 
 <div>
