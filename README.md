@@ -1,5 +1,3 @@
-
-
 # 🙋 Seja bem vindo(a) ao meu GitHub! 
 <h2> É bom ter você por aqui.😁</h2>
 
