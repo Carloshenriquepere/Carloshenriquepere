@@ -17,7 +17,7 @@
   <a href="https://wa.me/5551997658148" title="Para conversar comigo essece o link"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
----
+--
 
 <h3>Como desenvolvedor de software apaixonado pela tecnologia e inovação, trago uma rica experiência prática em programação Java, especializando-me na criação de APIs RESTful robustas com o framework Spring. Meu domínio técnico se estende a bancos de dados como MySQL, PostgreSQL e H2, onde aplico as melhores práticas de desenvolvimento e manutenção de sistemas de banco de dados.
 
