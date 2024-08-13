@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "350px" align = "right">
+
 
 # 🙋 Seja bem vindo(a) ao meu GitHub! 
 <h2> É bom ter você por aqui.😁</h2>
@@ -8,6 +8,7 @@
 - ♥ Aprendendo a programar em Back-End
 - ♣ Apaixonado por:<div><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></div>
 
+<img src = "giphy.gif" width = "350px" align = "right">
 
 <div>
    <a href="https://www.instagram.com/carlos_henrique_perei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,7 +18,7 @@
   <a href="https://wa.me/5551997658148" title="Para conversar comigo essece o link"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
---
+---
 
 <h3>Como desenvolvedor de software apaixonado pela tecnologia e inovação, trago uma rica experiência prática em programação Java, especializando-me na criação de APIs RESTful robustas com o framework Spring. Meu domínio técnico se estende a bancos de dados como MySQL, PostgreSQL e H2, onde aplico as melhores práticas de desenvolvimento e manutenção de sistemas de banco de dados.
 
